@@ -1,0 +1,42 @@
+name: tvbox-mirror-snapshot
+
+# 每 6 小时抓取上游 m.json 快照到本仓库 mirror/ 目录
+# 需把 Settings -> Actions -> General -> Workflow permissions 设为 Read and write
+on:
+  schedule:
+    - cron: "17 */6 * * *"   # 每天 00:17/06:17/12:17/18:17 UTC（错峰，避开整点拥堵）
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: mirror-snapshot
+  cancel-in-progress: false
+
+jobs:
+  snapshot:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Run snapshot
+        run: python snapshot.py
+
+      - name: Commit and push
+        run: |
+          git config user.name  "tvbox-mirror-bot"
+          git config user.email "tvbox-mirror-bot@users.noreply.github.com"
+          git add -A
+          if git diff --cached --quiet; then
+            echo "No snapshot change; nothing to commit."
+            exit 0
+          fi
+          git commit -m "chore(snapshot): refresh m.json [skip ci]"
+          git push
+          echo "Snapshot pushed."
