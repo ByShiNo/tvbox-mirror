@@ -1,0 +1,23 @@
+{
+  "_说明": "tvbox-mirror 快照配置。按 upstreams 顺序 failover 抓取 m.json，校验 sites>=min_sites 且不低于基线一半才覆盖 mirror/m.json，否则保留 last good。",
+  "timeout_seconds": 12,
+  "min_sites": 10,
+  "failures_before_alert": 3,
+  "upstreams": [
+    {
+      "name": "box-main",
+      "url": "https://raw.githubusercontent.com/liu673cn/box/main/m.json",
+      "timeout_seconds": 12
+    },
+    {
+      "name": "box-jsdelivr",
+      "url": "https://fastly.jsdelivr.net/gh/liu673cn/box@main/m.json",
+      "timeout_seconds": 8
+    },
+    {
+      "name": "box-ghpages",
+      "url": "https://liu673cn.github.io/box/m.json",
+      "timeout_seconds": 8
+    }
+  ]
+}
