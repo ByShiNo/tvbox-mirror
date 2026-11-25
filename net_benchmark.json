@@ -1,0 +1,501 @@
+{
+  "generated": "2026-11-25 22:13:03 +0800",
+  "candidates": [
+    {
+      "group": "vod",
+      "id": "clean-mirror-v1",
+      "url": "https://fastly.jsdelivr.net/gh/ByShiNo/tvbox-mirror@main/mirror/clean-m.json",
+      "latency_ms": 253,
+      "speed_kbps": 2685,
+      "size": 87102,
+      "err": null,
+      "score": 74
+    },
+    {
+      "group": "live",
+      "id": "fanmingming-itv",
+      "url": "https://fastly.jsdelivr.net/gh/fanmingming/live@main/tv/m3u/itv.m3u",
+      "latency_ms": 345,
+      "speed_kbps": 2969,
+      "size": 48268,
+      "err": null,
+      "score": 73
+    },
+    {
+      "group": "live",
+      "id": "fanmingming-index",
+      "url": "https://fastly.jsdelivr.net/gh/fanmingming/live@main/tv/m3u/index.m3u",
+      "latency_ms": 235,
+      "speed_kbps": 1644,
+      "size": 28517,
+      "err": null,
+      "score": 66
+    },
+    {
+      "group": "vod",
+      "id": "clean-mirror-v2",
+      "url": "https://fastly.jsdelivr.net/gh/ByShiNo/tvbox-mirror@main/mirror/clean-m-v2.json",
+      "latency_ms": 281,
+      "speed_kbps": 1775,
+      "size": 50779,
+      "err": null,
+      "score": 66
+    },
+    {
+      "group": "live",
+      "id": "fanmingming-ipv6",
+      "url": "https://fastly.jsdelivr.net/gh/fanmingming/live@main/tv/m3u/ipv6.m3u",
+      "latency_ms": 317,
+      "speed_kbps": 1572,
+      "size": 25215,
+      "err": null,
+      "score": 63
+    },
+    {
+      "group": "vod",
+      "id": "selfhost-snapshot",
+      "url": "https://fastly.jsdelivr.net/gh/ByShiNo/tvbox-mirror@main/mirror/m.json",
+      "latency_ms": 604,
+      "speed_kbps": 1999,
+      "size": 82385,
+      "err": null,
+      "score": 58
+    },
+    {
+      "group": "vod",
+      "id": "liu673cn-ghpages",
+      "url": "https://liu673cn.github.io/box/m.json",
+      "latency_ms": 1290,
+      "speed_kbps": 1965,
+      "size": 57874,
+      "err": null,
+      "score": 37
+    }
+  ],
+  "sites": [
+    {
+      "key": "dr_百忙无果",
+      "name": "🍋┃百忙┃无果",
+      "api": "https://raw.liucn.cc/box/libs/js/drpy2.min.js",
+      "latency_ms": 230,
+      "ok": true,
+      "err": null
+    },
+    {
+      "key": "js_Xinsj",
+      "name": "🐠┃视觉┃影院",
+      "api": "https://raw.liucn.cc/box/libs/js/drpy2.min.js",
+      "latency_ms": 242,
+      "ok": true,
+      "err": null
+    },
+    {
+      "key": "js_哔哩直播",
+      "name": "🅱️┃哔哩┃直播",
+      "api": "https://raw.liucn.cc/box/libs/js/drpy2.min.js",
+      "latency_ms": 242,
+      "ok": true,
+      "err": null
+    },
+    {
+      "key": "dr_360影视",
+      "name": "📺┃360(官) ",
+      "api": "https://raw.liucn.cc/box/libs/js/drpy2.min.js",
+      "latency_ms": 245,
+      "ok": true,
+      "err": null
+    },
+    {
+      "key": "js_磁力熊",
+      "name": "🐻‍贝尔磁力┃Js",
+      "api": "https://raw.liucn.cc/box/libs/js/drpy2.min.js",
+      "latency_ms": 246,
+      "ok": true,
+      "err": null
+    },
+    {
+      "key": "js_酷吧",
+      "name": "😎酷吧磁力┃Js",
+      "api": "https://raw.liucn.cc/box/libs/js/drpy2.min.js",
+      "latency_ms": 277,
+      "ok": true,
+      "err": null
+    },
+    {
+      "key": "dr_搜狗",
+      "name": "🚛┃搜狗(官)",
+      "api": "https://raw.liucn.cc/box/libs/js/drpy2.min.js",
+      "latency_ms": 281,
+      "ok": true,
+      "err": null
+    },
+    {
+      "key": "js_6V",
+      "name": "✡️六维磁力┃Js",
+      "api": "https://raw.liucn.cc/box/libs/js/drpy2.min.js",
+      "latency_ms": 301,
+      "ok": true,
+      "err": null
+    },
+    {
+      "key": "csp_聚短视频",
+      "name": "📽️聚短┃视频",
+      "api": "https://raw.liucn.cc/box/libs/js/drpy2.min.js",
+      "latency_ms": 304,
+      "ok": true,
+      "err": null
+    },
+    {
+      "key": "dr_mgtv",
+      "name": "🥭┃芒果(官)",
+      "api": "https://raw.liucn.cc/box/libs/js/drpy2.min.js",
+      "latency_ms": 306,
+      "ok": true,
+      "err": null
+    },
+    {
+      "key": "dr_兔小贝",
+      "name": "📚儿童┃启蒙",
+      "api": "https://raw.liucn.cc/box/libs/js/drpy2.min.js",
+      "latency_ms": 307,
+      "ok": true,
+      "err": null
+    },
+    {
+      "key": "csp_XYQBiu_斗鱼",
+      "name": "🐟┃斗鱼┃直播",
+      "api": "https://raw.liucn.cc/box/libs/js/drpy2.min.js",
+      "latency_ms": 334,
+      "ok": true,
+      "err": null
+    },
+    {
+      "key": "88js",
+      "name": "⚽ 88┃看球",
+      "api": "https://raw.liucn.cc/box/libs/js/drpy2.min.js",
+      "latency_ms": 336,
+      "ok": true,
+      "err": null
+    },
+    {
+      "key": "奇优",
+      "name": " 🍩┃奇优┃影视",
+      "api": "https://raw.liucn.cc/box/libs/js/drpy2.min.js",
+      "latency_ms": 352,
+      "ok": true,
+      "err": null
+    },
+    {
+      "key": "dr_qq",
+      "name": "🐧┃腾讯(官)",
+      "api": "https://raw.liucn.cc/box/libs/js/drpy2.min.js",
+      "latency_ms": 360,
+      "ok": true,
+      "err": null
+    },
+    {
+      "key": "dr_童趣",
+      "name": "🧗‍┃童趣┃播视",
+      "api": "https://raw.liucn.cc/box/libs/js/drpy2.min.js",
+      "latency_ms": 367,
+      "ok": true,
+      "err": null
+    },
+    {
+      "key": "dr_腾云驾雾",
+      "name": "☁️┃腾云┃驾雾",
+      "api": "https://raw.liucn.cc/box/libs/js/drpy2.min.js",
+      "latency_ms": 373,
+      "ok": true,
+      "err": null
+    },
+    {
+      "key": "nangua",
+      "name": "🎃┃南瓜┃影视",
+      "api": "https://raw.liucn.cc/box/libs/js/drpy2.min.js",
+      "latency_ms": 377,
+      "ok": true,
+      "err": null
+    },
+    {
+      "key": "酷奇js",
+      "name": "🎤酷奇┃MV",
+      "api": "https://raw.liucn.cc/box/libs/js/drpy2.min.js",
+      "latency_ms": 389,
+      "ok": true,
+      "err": null
+    },
+    {
+      "key": "云播影视",
+      "name": "☁️┃云播┃影视",
+      "api": "https://raw.liucn.cc/box/libs/js/drpy2.min.js",
+      "latency_ms": 391,
+      "ok": true,
+      "err": null
+    },
+    {
+      "key": "爱看影视",
+      "name": "❤┃爱看┃蓝光",
+      "api": "https://raw.liucn.cc/box/libs/js/drpy2.min.js",
+      "latency_ms": 392,
+      "ok": true,
+      "err": null
+    },
+    {
+      "key": "js_农民",
+      "name": "👨‍🌾┃农民┃影视",
+      "api": "https://raw.liucn.cc/box/libs/js/drpy2.min.js",
+      "latency_ms": 415,
+      "ok": true,
+      "err": null
+    },
+    {
+      "key": "dr_荐片",
+      "name": "⏳┃荐片┃Js",
+      "api": "https://raw.liucn.cc/box/libs/js/drpy2.min.js",
+      "latency_ms": 431,
+      "ok": true,
+      "err": null
+    },
+    {
+      "key": "dr_奇珍异兽",
+      "name": "🦍┃奇珍┃异兽",
+      "api": "https://raw.liucn.cc/box/libs/js/drpy2.min.js",
+      "latency_ms": 445,
+      "ok": true,
+      "err": null
+    },
+    {
+      "key": "直播转点播",
+      "name": "📺︎┃电视┃点播",
+      "api": "https://raw.liucn.cc/box/libs/tv/zb.min.js",
+      "latency_ms": 463,
+      "ok": true,
+      "err": null
+    },
+    {
+      "key": "js_B站精简",
+      "name": "🅱️┃哔哩┃精简",
+      "api": "https://raw.liucn.cc/box/libs/js/drpy2.min.js",
+      "latency_ms": 566,
+      "ok": true,
+      "err": null
+    },
+    {
+      "key": "csp_qiumi",
+      "name": "⚽ Jrs┃球迷",
+      "api": "https://raw.liucn.cc/box/libs/js/drpy2.min.js",
+      "latency_ms": 568,
+      "ok": true,
+      "err": null
+    },
+    {
+      "key": "drpy_js_Alist",
+      "name": "网盘 | Alist[js]",
+      "api": "https://raw.liucn.cc/box/libs/js/alist.min.js",
+      "latency_ms": 577,
+      "ok": true,
+      "err": null
+    },
+    {
+      "key": "js_武享吧",
+      "name": "🥎┃格斗┃直播",
+      "api": "https://raw.liucn.cc/box/libs/js/drpy2.min.js",
+      "latency_ms": 595,
+      "ok": true,
+      "err": null
+    },
+    {
+      "key": "js_007",
+      "name": "🕵‍┃特工┃影视",
+      "api": "https://raw.liucn.cc/box/libs/js/drpy2.min.js",
+      "latency_ms": 601,
+      "ok": true,
+      "err": null
+    },
+    {
+      "key": "js_a8音乐",
+      "name": "🎸┃奥迪┃音乐",
+      "api": "https://raw.liucn.cc/box/libs/js/drpy2.min.js",
+      "latency_ms": 635,
+      "ok": true,
+      "err": null
+    },
+    {
+      "key": "js_555",
+      "name": "🌟┃三五┃影视",
+      "api": "https://raw.liucn.cc/box/libs/js/drpy2.min.js",
+      "latency_ms": 650,
+      "ok": true,
+      "err": null
+    },
+    {
+      "key": "dr_youku",
+      "name": "🥔┃优酷(官)",
+      "api": "https://raw.liucn.cc/box/libs/js/drpy2.min.js",
+      "latency_ms": 666,
+      "ok": true,
+      "err": null
+    },
+    {
+      "key": "csp_310直播",
+      "name": "⚽310┃看球",
+      "api": "https://raw.liucn.cc/box/libs/js/drpy2.min.js",
+      "latency_ms": 683,
+      "ok": true,
+      "err": null
+    },
+    {
+      "key": "js_czsapp",
+      "name": "🏭️┃厂长┃Js",
+      "api": "https://raw.liucn.cc/box/libs/js/drpy2.min.js",
+      "latency_ms": 688,
+      "ok": true,
+      "err": null
+    },
+    {
+      "key": "MV_vod",
+      "name": "🎹┃MTV┃合集",
+      "api": "https://mv.wogg.link/mv/vod",
+      "latency_ms": 710,
+      "ok": true,
+      "err": null
+    },
+    {
+      "key": "圣城影视",
+      "name": "🏰┃圣城┃影视",
+      "api": "https://raw.liucn.cc/box/libs/js/drpy2.min.js",
+      "latency_ms": 722,
+      "ok": true,
+      "err": null
+    },
+    {
+      "key": "js_骚火电影",
+      "name": "🔥┃骚火┃影视",
+      "api": "https://raw.liucn.cc/box/libs/js/drpy2.min.js",
+      "latency_ms": 731,
+      "ok": true,
+      "err": null
+    },
+    {
+      "key": "dr_iqiyi",
+      "name": "🥝┃爱奇异(官)",
+      "api": "https://raw.liucn.cc/box/libs/js/drpy2.min.js",
+      "latency_ms": 742,
+      "ok": true,
+      "err": null
+    },
+    {
+      "key": "火狐",
+      "name": "🦊火狐采集",
+      "api": "https://hhzyapi.com/api.php/provide/vod/",
+      "latency_ms": 793,
+      "ok": true,
+      "err": null
+    },
+    {
+      "key": "云播影视",
+      "name": "☁️┃云播┃影视",
+      "api": "https://raw.liucn.cc/box/libs/js/drpy2.min.js",
+      "latency_ms": 799,
+      "ok": true,
+      "err": null
+    },
+    {
+      "key": "js_大师兄",
+      "name": "🐵┃师兄┃影视",
+      "api": "https://raw.liucn.cc/box/libs/js/drpy2.min.js",
+      "latency_ms": 803,
+      "ok": true,
+      "err": null
+    },
+    {
+      "key": "dr_低端",
+      "name": "🔥┃低端┃Js",
+      "api": "https://raw.liucn.cc/box/libs/js/drpy2.min.js",
+      "latency_ms": 865,
+      "ok": true,
+      "err": null
+    },
+    {
+      "key": "js_bzys",
+      "name": "🌋┃B站┃影视",
+      "api": "https://raw.liucn.cc/box/libs/js/drpy2.min.js",
+      "latency_ms": 990,
+      "ok": true,
+      "err": null
+    },
+    {
+      "key": "量子资源",
+      "name": "🥑┃量子┃资源",
+      "api": "https://lzizy1.com/api.php/provide/vod/",
+      "latency_ms": 996,
+      "ok": true,
+      "err": null
+    },
+    {
+      "key": "js_Lib",
+      "name": "🍲┃Lib┃影视",
+      "api": "https://raw.liucn.cc/box/libs/js/drpy2.min.js",
+      "latency_ms": 1008,
+      "ok": true,
+      "err": null
+    },
+    {
+      "key": "js_电影先生",
+      "name": "🤵┃电影┃先生",
+      "api": "https://raw.liucn.cc/box/libs/js/drpy2.min.js",
+      "latency_ms": 1011,
+      "ok": true,
+      "err": null
+    },
+    {
+      "key": "js_4KHDR",
+      "name": "🧲世界磁力┃Js",
+      "api": "https://raw.liucn.cc/box/libs/js/drpy2.min.js",
+      "latency_ms": 1035,
+      "ok": true,
+      "err": null
+    },
+    {
+      "key": "百度",
+      "name": "🎏百度┃采集",
+      "api": "https://api.apibdzy.com/api.php/provide/vod/?ac=list",
+      "latency_ms": 1126,
+      "ok": true,
+      "err": null
+    },
+    {
+      "key": "taopian",
+      "name": "🕹️淘片┃采集",
+      "api": "https://taopianapi.com/cjapi/mc/vod/json.html",
+      "latency_ms": 1234,
+      "ok": true,
+      "err": null
+    },
+    {
+      "key": "MV_vod",
+      "name": "🎶明星┃MV",
+      "api": "https://mv.wogg.link/mv/vod",
+      "latency_ms": 1236,
+      "ok": true,
+      "err": null
+    },
+    {
+      "key": "虎牙直播js",
+      "name": "🐯┃虎牙┃直播",
+      "api": "https://raw.liucn.cc/box/libs/js/drpy2.min.js",
+      "latency_ms": 1283,
+      "ok": true,
+      "err": null
+    },
+    {
+      "key": "虎牙",
+      "name": "🐯虎牙采集",
+      "api": "https://www.huyaapi.com/api.php/provide/vod/from/hym3u8",
+      "latency_ms": 3000,
+      "ok": true,
+      "err": null
+    }
+  ]
+}
