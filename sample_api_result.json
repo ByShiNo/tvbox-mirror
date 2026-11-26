@@ -1,0 +1,318 @@
+{
+  "summary": {
+    "单仓聚合(549)": {
+      "total_sites": 549,
+      "type3": 16,
+      "sampled": 16,
+      "sampled_ok": 0,
+      "sampled_total": 16
+    },
+    "laoliubei(234)": {
+      "total_sites": 234,
+      "type3": 0,
+      "sampled": 0,
+      "sampled_ok": 0,
+      "sampled_total": 0
+    },
+    "xiaoma(62)": {
+      "total_sites": 62,
+      "type3": 6,
+      "sampled": 6,
+      "sampled_ok": 0,
+      "sampled_total": 6
+    },
+    "facat(40)": {
+      "total_sites": 40,
+      "type3": 0,
+      "sampled": 0,
+      "sampled_ok": 0,
+      "sampled_total": 0
+    },
+    "4k(53)": {
+      "total_sites": 53,
+      "type3": 5,
+      "sampled": 5,
+      "sampled_ok": 0,
+      "sampled_total": 5
+    },
+    "clean-selfhost(200)": {
+      "total_sites": 200,
+      "type3": 0,
+      "sampled": 0,
+      "sampled_ok": 0,
+      "sampled_total": 0
+    }
+  },
+  "details": [
+    {
+      "src": "单仓聚合(549)",
+      "name": "🐼｜独播库",
+      "api": "https://files.catbox.moe/gd1tos.js",
+      "ok": false,
+      "code": 0,
+      "n": 0,
+      "ms": 307,
+      "total": ""
+    },
+    {
+      "src": "单仓聚合(549)",
+      "name": "爱奇艺",
+      "api": "https://szyyds.cn/js/6F02.js",
+      "ok": false,
+      "code": 200,
+      "n": 0,
+      "ms": 1868,
+      "total": ""
+    },
+    {
+      "src": "单仓聚合(549)",
+      "name": "优酷视频",
+      "api": "https://szyyds.cn/js/6F02.js",
+      "ok": false,
+      "code": 200,
+      "n": 0,
+      "ms": 3832,
+      "total": ""
+    },
+    {
+      "src": "单仓聚合(549)",
+      "name": "腾讯视频",
+      "api": "https://szyyds.cn/js/6F02.js",
+      "ok": false,
+      "code": 200,
+      "n": 0,
+      "ms": 2065,
+      "total": ""
+    },
+    {
+      "src": "单仓聚合(549)",
+      "name": "芒果TV",
+      "api": "https://szyyds.cn/js/6F02.js",
+      "ok": false,
+      "code": 200,
+      "n": 0,
+      "ms": 1979,
+      "total": ""
+    },
+    {
+      "src": "单仓聚合(549)",
+      "name": "📚儿童┃启蒙",
+      "api": "https://git.yylx.win/https://raw.githubusercontent.com/fanta",
+      "ok": false,
+      "code": 0,
+      "n": 0,
+      "ms": 8010,
+      "total": ""
+    },
+    {
+      "src": "单仓聚合(549)",
+      "name": "📢接口软件永远免费",
+      "api": "https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/py/py_do",
+      "ok": false,
+      "code": 404,
+      "n": 0,
+      "ms": 702,
+      "total": ""
+    },
+    {
+      "src": "单仓聚合(549)",
+      "name": "🔥聚玩盒子4K",
+      "api": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/lib/drpy2.mi",
+      "ok": false,
+      "code": 200,
+      "n": 0,
+      "ms": 406,
+      "total": ""
+    },
+    {
+      "src": "单仓聚合(549)",
+      "name": "📺┃网红┃直播",
+      "api": "http://alist.xn--z7x900a.live/ddrpy2.m.js",
+      "ok": false,
+      "code": 404,
+      "n": 0,
+      "ms": 391,
+      "total": ""
+    },
+    {
+      "src": "单仓聚合(549)",
+      "name": "🧡┃360┃官源",
+      "api": "https://jihulab.com/yw88075/tvbox/-/raw/main/dr/lib/drpy2.mi",
+      "ok": false,
+      "code": 404,
+      "n": 0,
+      "ms": 383,
+      "total": ""
+    },
+    {
+      "src": "单仓聚合(549)",
+      "name": "🧲┃荐片┃磁力",
+      "api": "http://rihou.vip:55/lib/drpy2.min.js",
+      "ok": false,
+      "code": 0,
+      "n": 0,
+      "ms": 343,
+      "total": ""
+    },
+    {
+      "src": "单仓聚合(549)",
+      "name": "⚽310直播",
+      "api": "https://github.moeyy.xyz/raw.githubusercontent.com/gaotianli",
+      "ok": false,
+      "code": 0,
+      "n": 0,
+      "ms": 8012,
+      "total": ""
+    },
+    {
+      "src": "单仓聚合(549)",
+      "name": "🐯虎牙直播",
+      "api": "http://xhztv.top/xhz/js/lib/drpy2.min.js",
+      "ok": false,
+      "code": 200,
+      "n": 0,
+      "ms": 2206,
+      "total": ""
+    },
+    {
+      "src": "单仓聚合(549)",
+      "name": "🐠斗鱼直播",
+      "api": "http://xhztv.top/xhz/js/lib/drpy2.min.js",
+      "ok": false,
+      "code": 200,
+      "n": 0,
+      "ms": 1760,
+      "total": ""
+    },
+    {
+      "src": "单仓聚合(549)",
+      "name": "有声小说吧",
+      "api": "http://xhztv.top/xhz/js/lib/drpy2.min.js",
+      "ok": false,
+      "code": 200,
+      "n": 0,
+      "ms": 1851,
+      "total": ""
+    },
+    {
+      "src": "单仓聚合(549)",
+      "name": "JRKAN直播",
+      "api": "http://xhztv.top/xhz/js/lib/drpy.min.js",
+      "ok": false,
+      "code": 200,
+      "n": 0,
+      "ms": 2267,
+      "total": ""
+    },
+    {
+      "src": "xiaoma(62)",
+      "name": "🐼｜独播库",
+      "api": "https://files.catbox.moe/gd1tos.js",
+      "ok": false,
+      "code": 0,
+      "n": 0,
+      "ms": 273,
+      "total": ""
+    },
+    {
+      "src": "xiaoma(62)",
+      "name": "爱奇艺",
+      "api": "https://szyyds.cn/js/6F02.js",
+      "ok": false,
+      "code": 200,
+      "n": 0,
+      "ms": 972,
+      "total": ""
+    },
+    {
+      "src": "xiaoma(62)",
+      "name": "优酷视频",
+      "api": "https://szyyds.cn/js/6F02.js",
+      "ok": false,
+      "code": 200,
+      "n": 0,
+      "ms": 1932,
+      "total": ""
+    },
+    {
+      "src": "xiaoma(62)",
+      "name": "腾讯视频",
+      "api": "https://szyyds.cn/js/6F02.js",
+      "ok": false,
+      "code": 200,
+      "n": 0,
+      "ms": 826,
+      "total": ""
+    },
+    {
+      "src": "xiaoma(62)",
+      "name": "芒果TV",
+      "api": "https://szyyds.cn/js/6F02.js",
+      "ok": false,
+      "code": 200,
+      "n": 0,
+      "ms": 1798,
+      "total": ""
+    },
+    {
+      "src": "xiaoma(62)",
+      "name": "📚儿童┃启蒙",
+      "api": "https://git.yylx.win/https://raw.githubusercontent.com/fanta",
+      "ok": false,
+      "code": 0,
+      "n": 0,
+      "ms": 8007,
+      "total": ""
+    },
+    {
+      "src": "4k(53)",
+      "name": "🔥聚玩盒子4K",
+      "api": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/lib/drpy2.mi",
+      "ok": false,
+      "code": 200,
+      "n": 0,
+      "ms": 300,
+      "total": ""
+    },
+    {
+      "src": "4k(53)",
+      "name": "📺┃网红┃直播",
+      "api": "http://alist.xn--z7x900a.live/ddrpy2.m.js",
+      "ok": false,
+      "code": 404,
+      "n": 0,
+      "ms": 201,
+      "total": ""
+    },
+    {
+      "src": "4k(53)",
+      "name": "🧡┃360┃官源",
+      "api": "https://jihulab.com/yw88075/tvbox/-/raw/main/dr/lib/drpy2.mi",
+      "ok": false,
+      "code": 404,
+      "n": 0,
+      "ms": 270,
+      "total": ""
+    },
+    {
+      "src": "4k(53)",
+      "name": "🧲┃荐片┃磁力",
+      "api": "http://rihou.vip:55/lib/drpy2.min.js",
+      "ok": false,
+      "code": 0,
+      "n": 0,
+      "ms": 8,
+      "total": ""
+    },
+    {
+      "src": "4k(53)",
+      "name": "⚽310直播",
+      "api": "https://github.moeyy.xyz/raw.githubusercontent.com/gaotianli",
+      "ok": false,
+      "code": 0,
+      "n": 0,
+      "ms": 8006,
+      "total": ""
+    }
+  ]
+}
