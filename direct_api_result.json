@@ -1,0 +1,38 @@
+{
+  "单仓聚合(549)": {
+    "total": 549,
+    "direct": 40,
+    "ok": 10,
+    "sampled": 30
+  },
+  "laoliubei(234)": {
+    "total": 234,
+    "direct": 15,
+    "ok": 5,
+    "sampled": 15
+  },
+  "xiaoma(62)": {
+    "total": 62,
+    "direct": 16,
+    "ok": 5,
+    "sampled": 16
+  },
+  "facat(40)": {
+    "total": 40,
+    "direct": 0,
+    "ok": 0,
+    "sampled": 0
+  },
+  "4k(53)": {
+    "total": 53,
+    "direct": 9,
+    "ok": 2,
+    "sampled": 9
+  },
+  "clean-selfhost(200)": {
+    "total": 200,
+    "direct": 7,
+    "ok": 5,
+    "sampled": 7
+  }
+}
